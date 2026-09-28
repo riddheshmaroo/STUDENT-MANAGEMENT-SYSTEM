@@ -24,7 +24,7 @@ Return to Main Menu
 
 ---
 
-## 7. Technologies and Tools Used
+## 1. Technologies and Tools Used
 
 | Technology / Tool | Purpose |
 |---|---|
@@ -38,7 +38,7 @@ Return to Main Menu
 
 ---
 
-## 8. Project Structure
+## 2. Project Structure
 
 The current project contains:
 
@@ -65,7 +65,7 @@ The main menu controls the overall workflow.
 
 ---
 
-## 9. Installation and Setup
+## 3. Installation and Setup
 
 ### Prerequisites
 
@@ -108,7 +108,7 @@ python3 SEM1_PROJECT.py
 
 ---
 
-## 10. How to Use the System
+## 4. How to Use the System
 
 After starting the program, the following menu is displayed:
 
@@ -150,7 +150,7 @@ Student added successfully!
 
 ---
 
-## 11. Data Representation
+## 5. Data Representation
 
 Each student is represented using a Python dictionary:
 
@@ -170,25 +170,25 @@ This provides a simple in-memory structure for performing CRUD operations.
 
 ---
 
-## 12. Non-Functional Requirements
+## 6. Non-Functional Requirements
 
-### 12.1 Usability
+### 6.1 Usability
 
 The system uses a simple menu-driven interface so that users can select operations easily.
 
-### 12.2 Performance
+### 6.2 Performance
 
 For the current in-memory implementation, operations are lightweight and suitable for a small number of student records.
 
-### 12.3 Reliability
+### 6.3 Reliability
 
 The system checks whether a requested student exists before performing search, update, or delete operations.
 
-### 12.4 Maintainability
+### 6.4 Maintainability
 
 The program separates major operations into individual functions, making the code easier to understand and modify.
 
-### 12.5 Error Handling
+### 6.5 Error Handling
 
 The system handles situations such as:
 
@@ -202,7 +202,7 @@ The system handles situations such as:
 
 ---
 
-## 13. Technical Design
+## 7. Technical Design
 
 ### Architecture
 
@@ -233,7 +233,7 @@ No external database is currently used. Student records are stored temporarily i
 
 ---
 
-## 14. Testing Instructions
+## 8. Testing Instructions
 
 The application can be manually tested using the following cases:
 
@@ -251,7 +251,7 @@ The application can be manually tested using the following cases:
 
 ---
 
-## 15. Limitations
+## 9. Limitations
 
 The current version has the following limitations:
 
@@ -265,7 +265,7 @@ The current version has the following limitations:
 
 ---
 
-## 16. Future Enhancements
+## 10. Future Enhancements
 
 The project can be extended by:
 
@@ -282,7 +282,7 @@ The project can be extended by:
 
 ---
 
-## 17. Git and GitHub
+## 11. Git and GitHub
 
 Version control should be used to track project development.
 
@@ -301,7 +301,7 @@ Replace `<YOUR-GITHUB-REPOSITORY-URL>` with the actual GitHub repository URL.
 
 ---
 
-## 18. Project Report Artefacts
+## 12. Project Report Artefacts
 
 According to the provided project guidelines, the complete project submission should also document:
 
@@ -326,14 +326,14 @@ According to the provided project guidelines, the complete project submission sh
 
 ---
 
-## 19. References
+## 13. References
 
 - VITyarthi – Build Your Own Project: General Project Instructions & Submission Guidelines.
 - Python 3 documentation and standard language features used in the implementation.
 
 ---
 
-## 20. Author
+## 14. Author
 
 **Project:** Student Management System  
 **Language:** Python  
